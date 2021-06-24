@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firstmultiscreen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="GamingClub"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FirstMultiScreen">
+        <activity android:name=".MainActivity8"
+            android:label="Schedule"
+            android:parentActivityName=".MainActivity">
+
+        </activity>
+        <activity
+            android:name=".MainActivity6"
+            android:label="Wins Page"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity4"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity5"
+            android:label="Member&apos;s Page"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity3"
+            android:label="Sign Up"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity2"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+    </application>
+
+</manifest>

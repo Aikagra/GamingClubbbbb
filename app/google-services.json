@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "20244625388",
+    "project_id": "gamingclub-a83b0",
+    "storage_bucket": "gamingclub-a83b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20244625388:android:d8ec6d21df88b8fd5ef2c9",
+        "android_client_info": {
+          "package_name": "com.example.firstmultiscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20244625388-3stsorr79noc1mh5r8rocuo7o8h39jf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFAPoUmX0JsJg2VQJK1HnUct5MTsam6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20244625388-3stsorr79noc1mh5r8rocuo7o8h39jf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20244625388:android:120c19cbf7b05db15ef2c9",
+        "android_client_info": {
+          "package_name": "come.example.firstmultiscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20244625388-3stsorr79noc1mh5r8rocuo7o8h39jf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFAPoUmX0JsJg2VQJK1HnUct5MTsam6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20244625388-3stsorr79noc1mh5r8rocuo7o8h39jf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/homeActivity"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:title="Member"
+        android:id="@+id/memberActivity"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+    <item
+        android:title="Schedule"
+        android:id="@+id/scheduleActivity"
+        android:icon="@drawable/ic_baseline_schedule_24"/>
+
+    <item
+        android:title="Wins"
+        android:id="@+id/winsActivity"
+        android:icon="@drawable/ic_baseline_sports_handball_24"/>
+
+</menu>
